@@ -5,7 +5,8 @@ backsies is a Google Chrome extension that returns the `backspace` and `shift`+`
 
 https://chrome.google.com/webstore/detail/backsies/gaddochohdmffbeebfmahndkjgnpomge
 
-### Donate
+#### Donate
+-----------
 - **BTC:** 1NerV6wXVnUZceTp5KUgHiwJt1Pqk7TDRT
 - **ETH:** 0x98f7ff902157e1a3d1476e8fcfb843fdb3212b92
 - **LSK:** 4214091785427732085L
