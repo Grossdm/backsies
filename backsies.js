@@ -31,7 +31,7 @@
     }
 
     //disable on elements with the 'contenteditable' attribute
-    if(document.activeElement.getAttribute('contenteditable') === "true") {
+    if(document.activeElement.getAttribute('contenteditable') === "true" || document.activeElement.getAttribute('contenteditable') === "") {
       return false;    
     }
 
