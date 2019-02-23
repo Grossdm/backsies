@@ -3,7 +3,7 @@
   "name": "backsies",
   "short_name": "backsies",
   "description": "Restores the backspace and shift-backspace history navigation features to Chrome and Chrome OS.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimum_chrome_version": "52",
   "icons": {
     "16": "assets/icon_16.png",
